@@ -1,2 +1,6 @@
-# Hands-on-Machine-Learning
-使用代码+公式+动图的形式描述机器学习算法
+---
+description: 代码+公式详解机器学习算法
+---
+
+# 机器学习
+
